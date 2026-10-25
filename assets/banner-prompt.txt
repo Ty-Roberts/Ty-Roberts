@@ -1,0 +1,7 @@
+Generated with the built-in image_gen tool.
+
+Use case: stylized-concept
+Asset type: polished panoramic GitHub profile banner, wide landscape approximately 3:1.
+Primary request: A beautiful restrained digital illustration for a software developer who builds Android drawing apps, Windows utilities and game tools. An abstract isometric architectural landscape made of precise dark graphite blocks, luminous fine circuit-like paths and a flowing ink ribbon winding through the geometry. Blend the tactile creativity of ink drawing with the structure of software. Editorial technology art, sophisticated and atmospheric, crisp forms, subtle grain, charcoal and deep midnight tones with restrained teal and warm ivory highlights. Broad quiet negative space across the left half, denser sculptural geometry on the right. Soft directional studio lighting, striking silhouette, carefully balanced at small display sizes.
+Text (verbatim): "TY ROBERTS" in large refined white sans-serif lettering in the left negative space, with "SOFTWARE • TOOLS • EXPERIMENTS" much smaller below. Keep all text comfortably inset from every edge. No other text.
+Constraints: flat panoramic image, no frame, no mockup, no logos, no watermark, no game characters, no tiny illegible code, no generic floating app icons.
