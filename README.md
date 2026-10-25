@@ -15,7 +15,6 @@ I build native Android apps with Kotlin and Jetpack Compose, with an interest in
 | [**Inkstone**](https://github.com/Ty-Roberts/Inkstone) | An infinite canvas for S Pen notes and sketches, with pressure-aware ink and local vector storage. | Kotlin · Jetpack Compose |
 | [**Souls Launcher**](https://github.com/Ty-Roberts/SoulsLauncher) | A native Windows launcher for FromSoftware's Souls games, with Steam library discovery and quick access to mod settings. | C# · .NET |
 | [**EldenSpotter**](https://github.com/Ty-Roberts/EldenSpotter) | An offline Elden Ring enemy HUD showing health, stance, and status information. | C# · .NET |
-| [**3D Maze Generator & Solver**](https://github.com/Ty-Roberts/3DMazeGeneratorSolver) | Procedural mazes built with Prim's algorithm and solved with a modified A* pathfinder. | Unity · C# |
 
 ### What connects the work
 
